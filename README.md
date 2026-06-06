@@ -22,7 +22,17 @@ We wanted an easy way to add matches to our calendars and never miss a game.
 
 ## Contributing
 
-Pull requests are welcome.
+We welcome contributions from football fans and developers.
+
+Some ideas for future improvements:
+
+- Dark mode
+- Team logos
+- Additional language support
+- Mobile UI improvements
+- Timezone comparison tools
+
+Check the Issues tab for open tasks and feature requests.
 
 ## License
 
